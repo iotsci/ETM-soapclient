@@ -15,6 +15,7 @@ soap_client.hashkey - хэш|токен.
 
 ```powershell
 Install-Package SimpleSOAPClient -Pre
+Install-Package ETMClient -Pre
 ```
 
 ## Совместимости проекта
