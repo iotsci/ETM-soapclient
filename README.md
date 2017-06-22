@@ -1,16 +1,6 @@
 ## ETM-soapclient - Клиент серверное приложение::
 Начало проекта считать дату получения сертификата и ключа
 
-## Installation
-
-TODO:Пишем бандлы и фичи к
-soap_client.wsdl - wsdl схема
-soap_client.cert - 
-soap_client.key - приватный ключ
-soap_client.login - Логин для авторизации.
-soap_client.password - Пароль.
-soap_client.hashkey - хэш|токен.
-
 ## Installation 
 Установка через [NuGet](https://www.nuget.org/packages/SimpleSOAPClient/) package. Наберите в готовом проекте (остальное должно подтянуться)
 
